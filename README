@@ -9,7 +9,7 @@ trainer.py
 tester.py
 model_0.25_6 - model weights
 
-notebook_tester.ipynb - test the model visually with sample
+notebook_tester.ipynb - test the model visually with samples
 
 data_paths - folder where train_test_splitter.py saves CSV files
 
