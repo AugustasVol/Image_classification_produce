@@ -7,7 +7,7 @@ train_test_splitter.py - splits data paths for testing and training, need to def
 cnn_keras.py - keras model function
 trainer.py
 tester.py
-model_0.25_6 - model weights, 0.25 means picture scale, 6 means number of outputs
+model_0.25_6 - model weights
 
 notebook_tester.ipynb - test the model visually with sample
 
