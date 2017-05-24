@@ -1,0 +1,21 @@
+A project for classifying produce
+
+Sample pictures in samples directory
+
+images_dir_labels.py - preprocess function and class
+train_test_splitter.py - splits data paths for testing and training, need to define a path in a file
+cnn_keras.py - keras model function
+trainer.py
+tester.py
+model_0.25_6 - model weights, 0.25 means picture scale, 6 means number of outputs
+
+notebook_tester.ipynb - test the model visually with sample
+
+data_paths - folder where train_test_splitter.py saves CSV files
+
+Required libraries:
+Keras
+Scikit-image
+Numpy
+Pandas
+Scikit-learn
