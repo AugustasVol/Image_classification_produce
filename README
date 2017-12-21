@@ -1,4 +1,4 @@
-# A project for classifying produce
+<h1>Project for classifying produce<h1>
 
 Sample pictures in samples directory
 
@@ -14,8 +14,8 @@ notebook_tester.ipynb - test the model visually with samples
 data_paths - folder where train_test_splitter.py saves CSV files
 
 Required libraries:
-Keras
-Scikit-image
-Numpy
-Pandas
-Scikit-learn
+    Keras
+    Scikit-image
+    Numpy
+    Pandas
+    Scikit-learn
